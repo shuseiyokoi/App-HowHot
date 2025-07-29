@@ -3,8 +3,8 @@
 
 **HowHot** is a web application that predicts the spiciness level of a meal just by looking at a photo. Built for those who love or need to avoid spicy food, the app uses deep learning to estimate spice levels on a scale from **0 (not spicy) to 5 (very spicy)**. Users can also give feedback to improve future predictions — making it smarter over time.
 
-🔗 **Live Demo**: [https://howhot.netlify.app/](https://howhot.netlify.app/)
-📝 **Blog**: [Predict Spiciness from Food Images with AI - ResNet 18]([(https://shuseiyokoi.notion.site/Predict-Spiciness-from-Food-Images-with-AI-ResNet-18-1cff61fbe85c802aace2f6c1aa2e6c1e)]
+🔗 **Live Demo**: [https://howhot.netlify.app/](https://howhot.netlify.app/)   
+📝 **Blog**: [Predict Spiciness from Food Images with AI - ResNet 18](https://shuseiyokoi.notion.site/Predict-Spiciness-from-Food-Images-with-AI-ResNet-18-1cff61fbe85c802aace2f6c1aa2e6c1e)
 
 
 <img width="706" height="340" alt="image" src="https://github.com/user-attachments/assets/def810be-410a-454f-8aa1-54a1d1ba5adf" />
